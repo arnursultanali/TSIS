@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Arman",
+        "email": "arman.k@mail.kz",
+        "birthday": "1995-05-15",
+        "group": "Friend",
+        "phones": [
+            {
+                "number": "+77015554433",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Aliya",
+        "email": "aliya.work@company.kz",
+        "birthday": "1992-10-20",
+        "group": "Work",
+        "phones": [
+            {
+                "number": "+77272554433",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Bauyrzhan",
+        "email": "b.khan@gmail.com",
+        "birthday": "1988-01-01",
+        "group": "Family",
+        "phones": [
+            {
+                "number": "+77771234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Zhanar",
+        "email": "zhanar_88@list.ru",
+        "birthday": "1988-12-12",
+        "group": "Other",
+        "phones": [
+            {
+                "number": "+77029998877",
+                "type": "home"
+            }
+        ]
+    }
+]
